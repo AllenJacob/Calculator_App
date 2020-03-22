@@ -1,0 +1,18 @@
+.new{
+    margin: 10px;
+    padding-left: 10px;
+}
+.new1{
+    margin: 7px;
+    margin-left: 0px;
+    
+}
+label{
+    padding-left: 10px;
+}
+a{
+    margin-left: 100px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
